@@ -17,6 +17,12 @@ body{
     text-align: center;
 }
 .codeof{
-    color:indigo;
+    color:rgb(65, 52, 75);
     text-align: center;
+}
+.back {
+    background-color: blueviolet;
+    color: burlywood;
+    
+    
 }
